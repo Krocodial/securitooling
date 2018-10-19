@@ -1,5 +1,4 @@
-# A curated list of awesome security focused tools I have heard about
-
+## A curated list of awesome security focused tools
 https://nodesecurity.io/  
  - Solid CML tool for node application security  
   
